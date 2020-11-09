@@ -1,3 +1,5 @@
+**COMP_SCI 348**
+
 Assignment 1: 
 Knowledge base for retrieving facts. 
 
